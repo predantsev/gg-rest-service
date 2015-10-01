@@ -9,4 +9,5 @@ import org.springframework.data.repository.CrudRepository;
  * Time: 23:45
  */
 public interface BookRepository extends CrudRepository<Book, Integer> {
+
 }
